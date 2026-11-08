@@ -1,0 +1,8 @@
+[MAIN]
+Token=
+SendChatId=
+ApiBaseUrl=https://api.telegram.org
+ConnectTimeout=30000
+ReadTimeout=3600000
+ProxyServer=
+ProxyPort=

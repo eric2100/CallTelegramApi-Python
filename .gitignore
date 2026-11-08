@@ -1,0 +1,7 @@
+CallTelegram.ini
+.venv/
+__pycache__/
+*.pyc
+build/
+dist/
+*.spec
